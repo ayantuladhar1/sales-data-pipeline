@@ -22,15 +22,15 @@ Bronze → Silver → Gold
 ---
 
 ## 📂 Project Structure
-**sales-data-pipeline/**
-├── data/raw/sales.csv
-├── src/
-│ ├── ingest_bronze.py
-│ ├── transform_silver.py
-│ ├── load_gold.py
-│ └── constants.py
-├── hive/create_tables.sql
-└── README.md
+sales-data-pipeline/
+-├── data/raw/sales.csv
+-├── src/
+-│ ├── ingest_bronze.py
+-│ ├── transform_silver.py
+-│ ├── load_gold.py
+-│ └── constants.py
+-├── hive/create_tables.sql
+-└── README.md
 
 
 ---
