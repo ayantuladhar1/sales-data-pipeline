@@ -1,0 +1,5 @@
+sale_id,product_id,product_name,category,quantity,price,sale_date
+1,101,iPhone,Electronics,1,999,2024-01-01
+2,102,MacBook,Electronics,1,1999,2024-01-02
+3,103,AirPods,Accessories,2,199,2024-01-02
+4,101,iPhone,Electronics,1,999,2024-01-03
