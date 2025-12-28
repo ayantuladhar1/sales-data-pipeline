@@ -22,7 +22,7 @@ Bronze → Silver → Gold
 ---
 
 ## 📂 Project Structure
-sales-data-pipeline/
+**sales-data-pipeline/**
 ├── data/raw/sales.csv
 ├── src/
 │ ├── ingest_bronze.py
